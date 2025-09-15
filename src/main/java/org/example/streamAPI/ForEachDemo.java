@@ -45,7 +45,8 @@ public class ForEachDemo {
         // print the map using stream api forEach()
         // to convert map to stream first convert it to entrySet() where entire key,value will be converted as a obj(entry set)
         map.entrySet().stream()
-                .forEach(obj -> System.out.println(obj.getKey() + " -> " + obj.getValue()));
+//                .forEach(obj -> System.out.println(obj));   // 1=a,2=b,3=c,4=d
+                .forEach(obj1 -> System.out.println(obj1.getKey() + " -> " + obj1.getValue())); // 1->a,2->b,3->c,4->d // to get key and value separately use obj1.getKey(), obj1.getValue()
 
         System.out.println("=====================================================");
         // ======================================================================

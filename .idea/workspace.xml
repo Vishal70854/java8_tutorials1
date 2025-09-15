@@ -36,11 +36,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ForEachDemo.executor": "Run",
+    "Application.FunctionDemo1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/visha/OneDrive/Desktop/java/java8_tutorials/java8_javatechie/java8/src/main/java/org/example/streamAPI/sort",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/visha/OneDrive/Desktop/java/java8_tutorials/java8_javatechie/java8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,11 +63,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <method v="2">
@@ -85,7 +85,12 @@
       <workItem from="1722304285606" duration="3942000" />
       <workItem from="1722443169028" duration="4025000" />
       <workItem from="1722877177154" duration="2170000" />
-      <workItem from="1723084049367" duration="2754000" />
+      <workItem from="1723084049367" duration="2832000" />
+      <workItem from="1723087169477" duration="75000" />
+      <workItem from="1723828248275" duration="284000" />
+      <workItem from="1724919254224" duration="4324000" />
+      <workItem from="1725889586726" duration="1707000" />
+      <workItem from="1725960817291" duration="15000" />
     </task>
     <servers />
   </component>
