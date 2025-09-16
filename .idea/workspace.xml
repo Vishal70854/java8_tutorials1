@@ -36,8 +36,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConvertListToMap.executor": "Run",
+    "Application.CountOccurencesUsingCounting.executor": "Run",
+    "Application.FilterDemo.executor": "Run",
     "Application.ForEachDemo.executor": "Run",
     "Application.FunctionDemo1.executor": "Run",
+    "Application.TaxService.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
