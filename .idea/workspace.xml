@@ -41,6 +41,8 @@
     "Application.FilterDemo.executor": "Run",
     "Application.ForEachDemo.executor": "Run",
     "Application.FunctionDemo1.executor": "Run",
+    "Application.MapAndFlatMapDemo.executor": "Run",
+    "Application.MapReduceExample.executor": "Run",
     "Application.TaxService.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
