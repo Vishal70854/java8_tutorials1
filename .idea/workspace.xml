@@ -43,6 +43,7 @@
     "Application.FunctionDemo1.executor": "Run",
     "Application.MapAndFlatMapDemo.executor": "Run",
     "Application.MapReduceExample.executor": "Run",
+    "Application.ParallelStreamExample.executor": "Run",
     "Application.TaxService.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
