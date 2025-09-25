@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b19e5f2-b3b4-4a3f-86d7-b0521f449adb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/MultipleAnyCallableRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/MultipleAnyCallableRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +72,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example\streamAPI\sort" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.multithreading" />
     </key>
   </component>
   <component name="RunManager">
