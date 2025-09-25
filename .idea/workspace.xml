@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b19e5f2-b3b4-4a3f-86d7-b0521f449adb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ThreadBasicsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ThreadBasicsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountOccurencesUsingCounting.executor": "Run",
     "Application.ExceptionHandlingExample.executor": "Run",
+    "Application.ExecutorServiceRunner.executor": "Run",
     "Application.FilterDemo.executor": "Run",
     "Application.ForEachDemo.executor": "Run",
     "Application.FunctionDemo1.executor": "Run",
