@@ -23,7 +23,7 @@ class Task2 implements Runnable{
 }
 
 public class ThreadBasicsRunner {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         // Task1
         System.out.println("\nTask1 kicked off");
@@ -37,6 +37,10 @@ public class ThreadBasicsRunner {
         Thread task2Thread = new Thread(task2);
         task2Thread.setPriority(1);
         task2Thread.start();
+
+        // wait for task1 to complete
+        task1.join();   // wait for task1 to complete first then only next line/below lines code will be executed
+        task2Thread.join(); // wait for task2Thread to complete then only task3 will be kicked off
 
         System.out.println("\nTask3 kicked off");
         // Task3
