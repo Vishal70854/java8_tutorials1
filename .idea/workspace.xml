@@ -37,11 +37,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CallableRunner.executor": "Run",
+    "Application.CheckedExceptionRunner.executor": "Run",
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountOccurencesUsingCounting.executor": "Run",
     "Application.ExceptionHandlingExample.executor": "Run",
+    "Application.ExceptionHandlingRunner.executor": "Run",
+    "Application.ExceptionHandlingRunner2.executor": "Run",
     "Application.ExecutorServiceRunner.executor": "Run",
     "Application.FilterDemo.executor": "Run",
+    "Application.FinallyRunner.executor": "Run",
     "Application.ForEachDemo.executor": "Run",
     "Application.FunctionDemo1.executor": "Run",
     "Application.LimitExample.executor": "Run",
@@ -53,6 +57,7 @@
     "Application.ParallelStreamExample.executor": "Run",
     "Application.TaxService.executor": "Run",
     "Application.ThreadBasicsRunner.executor": "Run",
+    "Application.ThrowingExceptionRunner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -77,6 +82,7 @@
       <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example\streamAPI\sort" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.exceptionHandling" />
       <recent name="org.example.multithreading" />
     </key>
   </component>
