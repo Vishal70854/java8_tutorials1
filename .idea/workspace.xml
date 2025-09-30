@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BiConsumerExample.executor": "Run",
     "Application.BiFunctionExample.executor": "Run",
     "Application.CallableRunner.executor": "Run",
     "Application.CheckedExceptionRunner.executor": "Run",
