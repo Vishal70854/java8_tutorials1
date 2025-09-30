@@ -38,6 +38,7 @@
   "keyToString": {
     "Application.BiConsumerExample.executor": "Run",
     "Application.BiFunctionExample.executor": "Run",
+    "Application.BiPredicateExample.executor": "Run",
     "Application.CallableRunner.executor": "Run",
     "Application.CheckedExceptionRunner.executor": "Run",
     "Application.ConvertListToMap.executor": "Run",
