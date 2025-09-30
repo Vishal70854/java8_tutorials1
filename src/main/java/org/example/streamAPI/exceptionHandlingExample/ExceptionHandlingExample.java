@@ -30,7 +30,16 @@ public class ExceptionHandlingExample {
         System.out.println("==================================================");
 
         // approach 3 : using exception handling for Consumer<Type> in another method
-        list.forEach(handleExceptionIfAny(s -> System.out.println(Integer.parseInt(s))));
+//        list.forEach(handleExceptionIfAny(s -> System.out.println(Integer.parseInt(s))));
+
+        // approach 4 : handling generic exception
+        list.forEach(handleGenericException(s -> System.out.println(Integer.parseInt(s)),NumberFormatException.class));
+        System.out.println("============================================");
+
+        // handling Generic excpetion.. in this case it is Arithmetic exception since 10/0 is infinity
+        List<Integer> list2 = Arrays.asList(1,0);
+        list2.forEach(handleGenericException(s -> System.out.println(10/s), ArithmeticException.class));
+
 
 
 
@@ -51,6 +60,25 @@ public class ExceptionHandlingExample {
                 payload.accept(obj);
             } catch (Exception ex) {
                 System.out.println("exception : " +ex.getMessage());
+            }
+        };
+    }
+
+    // part of approach 4
+    static <Target, ExObj extends Exception> Consumer<Target> handleGenericException(
+            Consumer<Target> targetConsumer,
+            Class<ExObj> exObjClass){
+
+        return obj -> {
+            try {
+                targetConsumer.accept(obj);
+            } catch (Exception ex) {
+                try {
+                    ExObj exObj = exObjClass.cast(ex);
+                    System.out.println("exception : " + exObj.getMessage());
+                } catch (Exception ecx) {
+                    throw ex;
+                }
             }
         };
     }
