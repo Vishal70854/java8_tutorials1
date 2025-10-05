@@ -66,6 +66,7 @@
     "Application.TaxService.executor": "Run",
     "Application.ThreadBasicsRunner.executor": "Run",
     "Application.ThrowingExceptionRunner.executor": "Run",
+    "Application.WhyNotFuture.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
