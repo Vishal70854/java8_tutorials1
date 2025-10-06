@@ -1,0 +1,8 @@
+id,name,qty,price
+101,Apple,50,0.50
+102,Banana,30,0.20
+103,Orange,20,0.40
+104,Mango,15,0.75
+105,Grapes,25,0.60
+106,Guava,98,0.23
+            4,0.30

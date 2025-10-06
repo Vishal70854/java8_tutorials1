@@ -63,6 +63,7 @@
     "Application.MultipleAnyCallableRunner.executor": "Run",
     "Application.MultipleCallableRunner.executor": "Run",
     "Application.ParallelStreamExample.executor": "Run",
+    "Application.SkipAndLimitExample.executor": "Run",
     "Application.TaxService.executor": "Run",
     "Application.ThreadBasicsRunner.executor": "Run",
     "Application.ThrowingExceptionRunner.executor": "Run",
@@ -90,6 +91,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example\streamAPI\sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8" />
+      <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.exceptionHandling" />
