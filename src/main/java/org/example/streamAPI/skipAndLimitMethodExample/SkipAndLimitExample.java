@@ -1,4 +1,4 @@
-package org.example.skipAndLimitMethodExample;
+package org.example.streamAPI.skipAndLimitMethodExample;
 
 import java.io.IOException;
 import java.nio.file.Files;
