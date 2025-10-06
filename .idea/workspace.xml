@@ -59,6 +59,7 @@
     "Application.MapReduceExample.executor": "Run",
     "Application.MapSortDemo.executor": "Run",
     "Application.MaxMinExample.executor": "Run",
+    "Application.MethodReferencesExample.executor": "Run",
     "Application.MethodReferencesRunner.executor": "Run",
     "Application.MultipleAnyCallableRunner.executor": "Run",
     "Application.MultipleCallableRunner.executor": "Run",
@@ -97,6 +98,7 @@
       <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.streamAPI.methodReferences" />
       <recent name="org.example.exceptionHandling" />
       <recent name="org.example.multithreading" />
     </key>
