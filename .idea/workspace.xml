@@ -64,6 +64,7 @@
     "Application.MethodReferencesRunner.executor": "Run",
     "Application.MultipleAnyCallableRunner.executor": "Run",
     "Application.MultipleCallableRunner.executor": "Run",
+    "Application.NthHighestSalaryDemo.executor": "Run",
     "Application.ParallelStreamExample.executor": "Run",
     "Application.SkipAndLimitExample.executor": "Run",
     "Application.TaxService.executor": "Run",
