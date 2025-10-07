@@ -53,6 +53,7 @@
     "Application.ForEachDemo.executor": "Run",
     "Application.FunctionDemo1.executor": "Run",
     "Application.FunctionalProgramming.executor": "Run",
+    "Application.Java8ProgrammingQuestions.executor": "Run",
     "Application.LambdaBehindTheScreensRunner.executor": "Run",
     "Application.LimitExample.executor": "Run",
     "Application.MapAndFlatMapDemo.executor": "Run",
@@ -76,7 +77,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/visha/OneDrive/Desktop/java/java8_tutorials/java8_javatechie/java8",
+    "last_opened_file_path": "C:/Users/visha/OneDrive/Desktop/java/java8_tutorials/java8_javatechie/java8/src/main/java/org/example/java8ProgrammingQuestions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,6 +92,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example\java8ProgrammingQuestions" />
       <recent name="C:\Users\visha\OneDrive\Desktop\java\java8_tutorials\java8_javatechie\java8\src\main\java\org\example\streamAPI\sort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
