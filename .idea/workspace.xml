@@ -43,6 +43,7 @@
     "Application.CheckedExceptionRunner.executor": "Run",
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountOccurencesUsingCounting.executor": "Run",
+    "Application.EmployeeReminderService.executor": "Run",
     "Application.EvenAndOddPrinter.executor": "Run",
     "Application.EvenAndOddPrinterBy2Threads.executor": "Run",
     "Application.EvenAndOddPrinterByExecutorService.executor": "Run",
