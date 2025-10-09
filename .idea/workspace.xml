@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3b19e5f2-b3b4-4a3f-86d7-b0521f449adb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/asynchronousProgramming/WhyNotFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/asynchronousProgramming/WhyNotFuture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,7 @@
     "Application.MultipleCallableRunner.executor": "Run",
     "Application.NthHighestSalaryDemo.executor": "Run",
     "Application.ParallelStreamExample.executor": "Run",
+    "Application.RunAsyncDemo.executor": "Run",
     "Application.SkipAndLimitExample.executor": "Run",
     "Application.TaxService.executor": "Run",
     "Application.ThreadBasicsRunner.executor": "Run",

@@ -21,6 +21,14 @@ public class WhyNotFuture {
 
         service.shutdown();
 
+        // demo of Completable Future(syntax)
+        CompletableFuture<String> completableFuture = new CompletableFuture<>();
+        completableFuture.get();    // this will return some value
+        completableFuture.complete("return some dummy data");   // if thread is taking long time then we can use complete() to complete the execution of CompletableFuture
+
+
+
+
     }
 
     private static void delay(int min) {

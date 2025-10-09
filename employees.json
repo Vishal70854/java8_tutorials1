@@ -1,0 +1,13 @@
+[
+  {"employeeId":"EMP001","firstName":"Aarav","lastName":"Sharma","email":"aarav.sharma@example.com","gender":"Male","newJoiner":true,"learningPending":false,"salary":65000,"rating":4.2},
+  {"employeeId":"EMP002","firstName":"Meera","lastName":"Patel","email":"meera.patel@example.com","gender":"Female","newJoiner":false,"learningPending":true,"salary":72000,"rating":3.8},
+  {"employeeId":"EMP003","firstName":"Rohan","lastName":"Verma","email":"rohan.verma@example.com","gender":"Male","newJoiner":true,"learningPending":true,"salary":58000,"rating":4.5},
+  {"employeeId":"EMP004","firstName":"Isha","lastName":"Singh","email":"isha.singh@example.com","gender":"Female","newJoiner":false,"learningPending":false,"salary":81000,"rating":4.0},
+  {"employeeId":"EMP005","firstName":"Kabir","lastName":"Gupta","email":"kabir.gupta@example.com","gender":"Male","newJoiner":true,"learningPending":true,"salary":54000,"rating":3.6},
+  {"employeeId":"EMP006","firstName":"Sneha","lastName":"Reddy","email":"sneha.reddy@example.com","gender":"Female","newJoiner":false,"learningPending":false,"salary":76000,"rating":4.1},
+  {"employeeId":"EMP007","firstName":"Yash","lastName":"Mehta","email":"yash.mehta@example.com","gender":"Male","newJoiner":true,"learningPending":false,"salary":60000,"rating":3.9},
+  {"employeeId":"EMP008","firstName":"Ananya","lastName":"Joshi","email":"ananya.joshi@example.com","gender":"Female","newJoiner":false,"learningPending":true,"salary":69000,"rating":4.3},
+  {"employeeId":"EMP009","firstName":"Dev","lastName":"Kapoor","email":"dev.kapoor@example.com","gender":"Male","newJoiner":true,"learningPending":true,"salary":57000,"rating":3.7},
+  {"employeeId":"EMP010","firstName":"Riya","lastName":"Chopra","email":"riya.chopra@example.com","gender":"Female","newJoiner":false,"learningPending":false,"salary":83000,"rating":4.6},
+  {"employeeId":"EMP100","firstName":"Tanya","lastName":"Malhotra","email":"tanya.malhotra@example.com","gender":"Female","newJoiner":true,"learningPending":false,"salary":62000,"rating":4.0}
+]
