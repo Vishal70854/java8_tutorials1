@@ -41,6 +41,7 @@
     "Application.BiPredicateExample.executor": "Run",
     "Application.CallableRunner.executor": "Run",
     "Application.CheckedExceptionRunner.executor": "Run",
+    "Application.CombineCompleteFutureDemo.executor": "Run",
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountOccurencesUsingCounting.executor": "Run",
     "Application.EmployeeReminderService.executor": "Run",
