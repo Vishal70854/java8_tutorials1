@@ -57,9 +57,9 @@ public class FPNumberRunner {
     }
 
     private static void minElementOfList(List<Integer> list) {
-        Optional<Integer> maxElementOfList = list.stream()
+        Optional<Integer> minElementOfList = list.stream()
                 .min((n1, n2) -> Integer.compare(n1, n2));
-        System.out.println("maximum element - " + maxElementOfList.get());
+        System.out.println("minimum element - " + minElementOfList.get());
         System.out.println("=============================================");
     }
 

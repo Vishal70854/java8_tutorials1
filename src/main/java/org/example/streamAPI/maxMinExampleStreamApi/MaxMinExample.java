@@ -70,7 +70,7 @@ public class MaxMinExample {
         //-----------------------------------------------------\
         // get 3rd max element from user object
         User thirdMaxUser = users.stream()
-                .sorted((a,b) -> b.getAge() - a.getAge())   // sort in descending order by user age
+                .sorted((a,b) -> b.getAge() - a.getAge()) // Comparator.comparing(User::getAge).reversed()  //  sort in descending order by user age(2nd approach to sort in descending is in comment section this line)
                 .skip(2)    // skip first 2 elements
                 .findFirst()    // find the first element after skipping 2 elements
                 .get();
