@@ -33,12 +33,24 @@ public class CountOccurencesUsingCounting {
         System.out.println("==================================================");
 
         // example 3
-        List<String> list1 = new ArrayList<>(Arrays.asList("Adam", "Bill", "Jack", "Joe", "Ian","Vish","Vick","Shiv","Gau"));
+        List<String> list1 = new ArrayList<>(Arrays.asList("Adam", "Bill", "Jack", "Joe", "Ian","Vish","Vicky","Shiv","Gau","Vishal","Babita","Singh"));
 
         Map<Integer, Long> countingList2 = list1.stream()
                 .collect(Collectors.groupingBy(String::length,Collectors.counting()));
-        System.out.println("Printing occurence of each words in list1 ArrayList");
+        System.out.println("Printing occurrence of each words from list1 ArrayList");
         System.out.println(countingList2);
+
+        System.out.println("==================================================");
+
+        //  example 4 :
+        // get key as length of String
+        // get value as List<matching length strings>
+
+        Map<Integer, List<String>> countingList3 =
+                list1.stream()
+                        .collect(Collectors.groupingBy(String::length));
+        System.out.println("Printing length of each words as key and matching strings as List<String> as values from list1 ArrayList");
+        System.out.println(countingList3);
 
 
     }

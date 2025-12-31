@@ -60,7 +60,7 @@ public class Java8ProgrammingQuestions {
         String[] strArray = {"java","techie","springboot","microservices","dockerk8samazonwebservice"};
         String longestStringOfArray = Arrays.stream(strArray)
                 .reduce((word1, word2) -> word1.length() > word2.length() ? word1 : word2)
-                .get();
+                .get(); // .reduce("", (w1, w2) -> w1.length() > w2.length() ? w1 : w2); // if we dont want to use get() then we can use the commented code with identity value initially marked as "" in this example
         System.out.println("longest string : " + longestStringOfArray);
         System.out.println("================================");
 
@@ -139,7 +139,7 @@ public class Java8ProgrammingQuestions {
                         Collectors.counting()))
                 .entrySet().stream()    // converted stream to map
                 .filter(x -> x.getValue() > 1)  // get all elements whose occurence > 1
-                .map(Map.Entry::getKey)     // get all keys of the map i.e the characters
+                .map(Map.Entry::getKey)     // .map(entry -> entry.getKey()) this will also work // get all keys of the map i.e the characters
                 .collect(Collectors.toList());  // convert map to list
         System.out.println(duplicateMap);
 

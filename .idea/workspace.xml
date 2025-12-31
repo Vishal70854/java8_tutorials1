@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3b19e5f2-b3b4-4a3f-86d7-b0521f449adb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/java8ProgrammingQuestions/Java8ProgrammingQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/java8ProgrammingQuestions/Java8ProgrammingQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/streamAPI/convertListToMap/CountOccurencesUsingCounting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/streamAPI/convertListToMap/CountOccurencesUsingCounting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,7 @@
     "Application.ForEachDemo.executor": "Run",
     "Application.FunctionDemo1.executor": "Run",
     "Application.FunctionalProgramming.executor": "Run",
+    "Application.Java8ProgrammingQuestionSet2.executor": "Run",
     "Application.Java8ProgrammingQuestions.executor": "Run",
     "Application.LambdaBehindTheScreensRunner.executor": "Run",
     "Application.LimitExample.executor": "Run",
